@@ -27,3 +27,4 @@ Q: What's the point of all this?
 A: The point is laughter, my friend. Life is too short not to have a bit of fun, especially when imagining a world where Queen Elizabeth is incognito as Elizabeth Smith.
 
 So, grab your imaginary royal scepter, put on your non-existent crown, and let's dive into the delightful rabbit hole of "Elizabeth Smith." Because sometimes, software development should be as majestic as a royal tea party. 🍵✨
+![image](https://github.com/dionysiosp/ElizabethSmith/assets/143537483/e0a6d39f-901c-43a9-b46d-b1c097b22018)
